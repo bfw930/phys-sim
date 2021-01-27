@@ -1,0 +1,21 @@
+
+## general python dev repo entries
+
+# python c build files
+**/__pycache__
+
+# ipython notebook versioning
+**/.ipynb_checkpoints
+
+# pipenv lock file
+**/Pipfile.lock
+
+# pipenv local venv
+.venv
+
+# syncthing sync files, versioning
+**/.stfolder
+
+# old dev versions, local backup only
+**/.archive
+
